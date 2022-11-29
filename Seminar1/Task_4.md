@@ -1,3 +1,3 @@
 ## Прототип низкой детализации 
 
-<image src="./3_before.png"/>
+<image src="./4_proto.png"/>
